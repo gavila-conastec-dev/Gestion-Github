@@ -1,0 +1,10 @@
+# Sustituye NOMBRE_ORGANIZACION por el nombre real de tu organizacion.
+# El equipo debe existir y tener acceso explicito al repositorio.
+
+# QA revisa todos los cambios del repositorio
+* @NOMBRE_ORGANIZACION/qa
+
+# Ejemplos opcionales por ruta:
+# /src/backend/ @NOMBRE_ORGANIZACION/backend @NOMBRE_ORGANIZACION/qa
+# /src/frontend/ @NOMBRE_ORGANIZACION/frontend @NOMBRE_ORGANIZACION/qa
+# /tests/ @NOMBRE_ORGANIZACION/qa
