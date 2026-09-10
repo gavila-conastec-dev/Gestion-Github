@@ -2,8 +2,7 @@
 # El equipo debe existir y tener acceso explicito al repositorio.
 
 # QA revisa todos los cambios del repositorio
-* @NOMBRE_ORGANIZACION/qa
-
+* @gavila-conastec-dev
 # Ejemplos opcionales por ruta:
 # /src/backend/ @NOMBRE_ORGANIZACION/backend @NOMBRE_ORGANIZACION/qa
 # /src/frontend/ @NOMBRE_ORGANIZACION/frontend @NOMBRE_ORGANIZACION/qa
