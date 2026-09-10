@@ -18,6 +18,7 @@ public class Prueba {
 			removeBomFromFile(ruta);
 			InvoiceType invoice = (InvoiceType) XmlConverterUtil.xmlFileToObject(ruta, InvoiceType.class);
 			System.out.println("Archivo correcto : " + invoice.getID().getValue());
+			//comentario
 		} catch (Exception ex) {
 			System.out.println("Error: " + ex.getMessage());
 		}
